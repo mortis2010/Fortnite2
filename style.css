@@ -13,7 +13,7 @@ header {
 
 .button {
     background-color: #36bbce;
-    color: black;
+    color: white;
     text-decoration: none;
     padding: 15px;
     font-size: 24px;
@@ -22,8 +22,8 @@ header {
 }
 
 nav {
-    border-top: 5px solid black;
-    border-bottom: 5px solid black;
+    border-top: 5px solid white;
+    border-bottom: 5px solid white;
     padding: 25px 100px 25px 95px;
     display: flex;
     justify-content: space-between;
@@ -31,14 +31,14 @@ nav {
 
 .nav-link {
     font-size: 24px;
-    color: black;
+    color: white;
     text-decoration: none;
     display: block;
 }
 
 h1 {
     text-align: center;
-    color: black;
+    color: white;
     font-size: 36px;
     margin-top: 45px;
     margin-bottom: 40px;
@@ -89,5 +89,5 @@ footer {
     height: 10px;
 }
 .like {
-    width: 1px;
+    width: 50px;
 }
